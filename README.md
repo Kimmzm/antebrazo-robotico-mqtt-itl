@@ -3,7 +3,7 @@
 # Prótesis de Antebrazo Robótico con Comunicación MQTT
 ### Instituto Tecnológico de León | Sistemas Programables (Unidad 4)
 
-**Equipo:** Equipo 4  
+  
 **Integrantes:**
 * García Rodríguez Héctor Mauricio (22240332)
 * Bernal Tolentino Raziel (22240232)
